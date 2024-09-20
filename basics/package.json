@@ -1,0 +1,15 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "practice for lecture",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kkr",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-color": "^0.2.1",
+    "ansi-colors": "^4.1.3"
+  }
+}
