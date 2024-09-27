@@ -1,0 +1,3 @@
+this is example text file
+
+ add new content
