@@ -24,6 +24,7 @@ rd.question('타이머 시간 설정(ms): ', (input) => {
 
         if (remainingTime <= 0) {
             console.log(`00초가 되었습니다`);
+            console.log(Math.pow(2, 24));
             clearInterval(timer);
             rd.close(); // 타이머가 종료시 readline 인터페이스 종료
         }
